@@ -313,7 +313,7 @@ hr {
   .tile.tile-4 .tile-inner {
     background: url('../images/HoCo4.png');}
   .tile.tile-8 .tile-inner {
-    background: url('../images/HoCo8.png'); }
+    background: url('../images/HoCo8x.png'); }
   .tile.tile-16 .tile-inner {
     background: url('../images/HoCo16.png'); }
   .tile.tile-32 .tile-inner {
@@ -323,13 +323,13 @@ hr {
   .tile.tile-128 .tile-inner {
     background: url('../images/HoCo128.png');}
   .tile.tile-256 .tile-inner {
-    background: url('../images/HoCo256x.png');}
+    background: url('../images/HoCo256.png');}
   .tile.tile-512 .tile-inner {
     background: url('../images/HoCo512.png');}
   .tile.tile-1024 .tile-inner {
     background: url('../images/HoCo1024.png');}
   .tile.tile-2048 .tile-inner {
-    background: url('../images/HoCo2048.png');}
+    background: url('../images/HoCo2048x.png');}
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
